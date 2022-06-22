@@ -1,2 +1,2 @@
-# Django-CRUD
- Django CRUD 
+# Django-CRUD 
+ Django CRUD project 
